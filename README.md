@@ -13,13 +13,9 @@
 ## 数据集
 清华大学心理学系团队发布面向情绪研究的日常动态心理生理记录数据集DAPPER
 
-文章全文可通过如下链接或点击阅读全文获取：
+文章全文可通过如下链接或点击阅读全文获取：https://rdcu.be/cnkg6
 
-https://rdcu.be/cnkg6
-
-数据下载：
-
-https://cloud.tsinghua.edu.cn/d/1600eafacd69474c9c0e/
+数据下载：https://cloud.tsinghua.edu.cn/d/1600eafacd69474c9c0e/
 
 
 
