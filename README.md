@@ -1,7 +1,7 @@
 # PhysiolNET-LLM
 
 ![License](https://img.shields.io/badge/license-MIT-yellow)
-[![Open in OpenXLab](https://cdn-static.openxlab.org.cn/header/openxlab_models.svg)](https://openxlab.org.cn/apps/detail/lengbaihang1/Elysia) ![Static Badge](https://img.shields.io/badge/license-Apache--2.0-green?label=license)]
+[![Open in OpenXLab](https://cdn-static.openxlab.org.cn/header/openxlab_models.svg)](https://openxlab.org.cn/apps/detail/lengbaihang1/Elysia) ![Static Badge](https://img.shields.io/badge/license-Apache--2.0-green?label=license)
 
 **[English](readme_english.md)|[中文](README.md)**
 
