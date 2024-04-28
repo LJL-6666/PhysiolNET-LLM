@@ -10,4 +10,20 @@ PhysiolNET-LLM
 
 
 
+## 致谢
 
+### 项目小伙伴(づ｡◕‿‿◕｡)づ
+
+- github@LJL-6666
+- github@Mo Baoqo
+
+
+### 特别感谢
+
+<div align="center">
+
+非常感谢书生·浦语团队对项目的支持(￣▽￣)~*
+
+感谢 OpenXLab 对项目部署的算力支持ヾ(^▽^ヾ)
+
+</div>
