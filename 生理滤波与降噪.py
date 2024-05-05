@@ -183,7 +183,6 @@ if __name__ == '__main__':
         # new_gsr.to_csv(f"Processed_handle_{number}_GSR.csv", index=False)
         # new_ppg.to_csv(f"Processed_handle_{number}_PPG.csv", index=False)
         # new_acc.to_csv(f"Processed_handle_{number}_ACC.csv", index=False)
-        break
 
         """处理时域特征与频域特征"""
         gsr_size = int(30 * gsr_fs)
