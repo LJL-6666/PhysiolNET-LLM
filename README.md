@@ -21,7 +21,7 @@
 
 由于DAPPER中的数据是按各被试者三种生理信号分别存进excel表中，且每种生理信息数据按照不同时间段分成了多个excel表格，在数据采集时可能存在**异常值**和**缺失值**，且为了能够正确输入神经网络，需要对**数据进行清洗**和**特征提取**，以下是我们数据预处理的步骤图：
 
-![image-20240505181916821](C:/Users/Lenovo%E2%80%98/AppData/Roaming/Typora/typora-user-images/image-20240505181916821.png)
+![image-20240505181916821](D:/Project/GitProjects/PhysiolNET-LLM/PhysiolNET-LLM/img/数据预处理.png)
 
 
 
